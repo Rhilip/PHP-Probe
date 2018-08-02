@@ -1022,7 +1022,7 @@ input.btn:hover{background:#558;}
 -->
 </style>
 
-<script language="JavaScript" type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/jquery/1.7/jquery.min.js"></script>
 
 <script type="text/javascript"> 
 
